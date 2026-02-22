@@ -13,20 +13,22 @@
 <br>
 🎓 Computer Engineering student at Universidad de Bogotá Jorge Tadeo Lozano  
 🔐 Focused on Defensive cybersecurity, with interest in tool development and detection techniques
-<br>💻 Exploring defensive Python, Linux, networking, and C fundamentals  
+<br>💻 Exploring defensive Python, Linux, networking, and Zeek fundamentals  
 
 ### 🛠️ Technologies and Tools
-- Languages: Python (intermediate), Bash (basic), C (beginner)
-- Operating Systems: Kali Linux, Windows 10 (lab mode)
-- Tools: Git, Nmap, Wireshark, VS Code, Basic knowledge Firewall/IDS 
+- **Languages:** Python (intermediate), Bash (basic), Zeek (beginner)  
+- **Operating Systems:** Kali Linux, Windows 10 (lab environment)  
+- **Security & Monitoring Tools:** Sysmon, Windows Security Event Logs, Suricata (IDS), SIEM Splunk, PFSense (Firewall)  
+- **Other Tools & Platforms:** Git, Nmap, Wireshark, VS Code, Jira (project tracking)  
+- **Frameworks & Methodologies:** Triad CIA, MITRE ATT&CK, NIST, Cyber Kill Chain, Agile (Scrum/Kanban)
 
 🌍 Languages: Spanish (native), English (intermediate)
 
 ### 👨🏻‍💻 About Me
 
-- 🌱 I’m currently learning C for Reverse Enginiering malware analisys.
+- 🌱 I'm currently learning Zeek for Network analysis.
 - 👯 I’m looking to collaborate on defensive Python tools.
-- 💬 Ask me about Blue Teaming basics or OS internals.
+- 💬 Ask me about Blue Teaming basics or Network analysis.
 - 📫 How to reach me: leo.jaraba.dev@gmail.com
 - 😄 Pronouns: Leito.
 - ⚡ Fun fact: I debug code better than I debug my own life choices xD
