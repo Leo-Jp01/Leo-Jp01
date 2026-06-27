@@ -12,30 +12,30 @@
 <br>
 <br>
 🎓 Computer Engineering student at Universidad de Bogotá Jorge Tadeo Lozano  
-🔐 Focused on Defensive cybersecurity, with interest in tool development and detection techniques
-<br>💻 Exploring defensive Python, Linux, networking, and Zeek fundamentals  
+🔐 Focused on Defensive Cloud Cybersecurity, with interest in tool development and detection techniques
+<br>💻 Exploring defensive Python, Microsoft Security Path (Defender for Endpoint & Cloud, Sentinel, XDR), Splunk (SPL), and Sigma rules.   
 
 ### 🛠️ Technologies and Tools
-- **Languages:** Python (intermediate), Bash (basic), Zeek (beginner)  
-- **Operating Systems:** Kali Linux, Windows 10 (lab environment)  
-- **Security & Monitoring Tools:** Sysmon, Windows Security Event Logs, Suricata (IDS), SIEM Splunk, PFSense (Firewall)  
-- **Other Tools & Platforms:** Git, Nmap, Wireshark, VS Code, Jira (project tracking)  
+- **Languages:** Python (intermediate), Bash (basic), SPL, KQL. 
+- **Operating Systems:** Linux Ubuntu, Windows 10 (lab environment)  
+- **Security & Monitoring Tools:** Sysmon, Windows Security Event Logs, Sentinel, Splunk, XDR Defender, Defender for Endpoint & Cloud.  
+- **Other Tools & Platforms:** Git and Github, ServiceNow, VS Code.
 - **Frameworks & Methodologies:** Triad CIA, MITRE ATT&CK, NIST, Cyber Kill Chain, Agile (Scrum/Kanban)
 
 🌍 Languages: Spanish (native), English (intermediate)
 
 ### 👨🏻‍💻 About Me
 
-- 🌱 I'm currently learning Zeek for Network analysis.
+- 🌱 I'm currently learning SPL for Logs analysis.
 - 👯 I’m looking to collaborate on defensive Python tools.
-- 💬 Ask me about Blue Teaming basics or Network analysis.
+- 💬 Ask me about Blue Teaming basics or EntraId Logs.
 - 📫 How to reach me: leo.jaraba.dev@gmail.com
 - 😄 Pronouns: Leito.
-- ⚡ Fun fact: I debug code better than I debug my own life choices xD
+- ⚡ Fun fact: I analize Logs better than I analize my own life choices xD
 
 ### 🧠 My Mindset
-🧠 I believe in mastering fundamentals before diving into advanced hacking.
+🧠 I believe in mastering fundamentals before diving into advanced Threat Hunting.
 <br>⚒️ I build tools not just to use them, but to understand how they break.
-<br>🧩 I learn by tearing things apart, reading internals, and building from scratch.
+<br>🧩 I learn by tearing things apart, reading official sources, and building from scratch.
 
 
